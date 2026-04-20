@@ -1,0 +1,37 @@
+Quartus Prime Archive log --	C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/Lab4_MOHAMMED_sarmadakram.qarlog
+
+Archive:	C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/Lab4_MOHAMMED_sarmadakram.qar
+Date:		Fri Apr 10 23:56:04 2026
+Quartus Prime		25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/ButtonShaper.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/Lab4_MOHAMMED_sarmadakram.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/LoadRegister.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/accesscontroller.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/adder.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/countTo10.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/countTo100.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/decoder.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/digit_timer.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/game_access_fsm.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/oneSecondTimer.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/rng_gen.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/timer_1ms.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/timer_control_fsm.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/src/twodigittimer.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/Lab3_MOHAMMED_sarmadakram.qsf
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/Lab4_MOHAMMED_sarmadakram.qpf
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/ROM_PSW/sim/Lab4_MOHAMMED_sarmadakram.hex
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/ROM_PSW/syn/Lab4_MOHAMMED_sarmadakram.mif
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/ROM_PSW/syn/ROM_PSWD.qip
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/ROM_PSW/syn/ROM_PSWD.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/ROM_PSW/syn/ROM_PSWD_bb.v
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/db/altsyncram_3hi1.tdf
+C:/Users/sarma/ADD/Projects/Labs/Lab4_MOHAMMED_sarmadakram/syn/rom_psw/syn/lab4_mohammed_sarmadakram.hex
+C:/Users/sarma/ADD/Projects/Labs/ooo_Lab4_MOHAMMED_sarmadakram/sim_1mslfsr/lfsr_1ms_timer.v
+c:/users/sarma/add/quartus/bin64/assignment_defaults.qdf
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
