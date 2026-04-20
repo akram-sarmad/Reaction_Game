@@ -1,7 +1,7 @@
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?logo=verilog)
 ![Quartus](https://img.shields.io/badge/Intel-Quartus-green?logo=intel)
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-orange)
-![FPGA](https://img.shields.io/badge/DE10--Lite-FPGA-blueviolet)
+![FPGA](https://img.shields.io/badge/DE0-CV--blueviolet)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 # Password-Protected Math Game — FPGA Digital System in Verilog
 
