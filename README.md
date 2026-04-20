@@ -1,3 +1,8 @@
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?logo=verilog)
+![Quartus](https://img.shields.io/badge/Intel-Quartus-green?logo=intel)
+![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-orange)
+![FPGA](https://img.shields.io/badge/DE10--Lite-FPGA-blueviolet)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
 # Password-Protected Math Game — FPGA Digital System in Verilog
 
 A fully integrated digital system implemented in Verilog and deployed on an FPGA, featuring password-based access control, a real-time countdown timer, a pseudo-random number generator, and an interactive arithmetic game — all built from scratch using RTL design principles.
